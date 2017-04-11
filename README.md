@@ -186,5 +186,5 @@ mListView.setAdapter(new CommonAdapter<String>(this, R.layout.item_list, mDatas)
 * [https://github.com/ragunathjawahar/simple-section-adapter](https://github.com/ragunathjawahar/simple-section-adapter)
 
     `SectionAdapter`对其进行了参考。
-
+sdfsdfsd
 
