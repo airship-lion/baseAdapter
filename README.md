@@ -187,4 +187,4 @@ mListView.setAdapter(new CommonAdapter<String>(this, R.layout.item_list, mDatas)
 
     `SectionAdapter`对其进行了参考。
 sdfsdfsd
-
+sdfsdf
